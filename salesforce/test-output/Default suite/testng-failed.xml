@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.salesforce.CreateTrialAccountTest">
+      <class name="com.salesforce.LoginTest">
         <methods>
           <include name="loginTest"/>
         </methods>
-      </class> <!-- com.salesforce.CreateTrialAccountTest -->
+      </class> <!-- com.salesforce.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
